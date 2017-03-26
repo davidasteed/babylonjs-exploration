@@ -1,34 +1,17 @@
 # babylongjs-exploration
 
+Author: David A. Steed
+
+Project Purpose:  Learn to communicate to others, and thus learn more ourselves, about how to code.
+
+Assignment:  Publish a technical blog about an approved subject on an approved social media platform.  "Your blog post must be technical: that means code samples, technical explanations, and possibly diagrams! You must use code samples in your post."
+
+Procedure:
+1.  create a login account and log into medium.com
+2.  create a post
+3.  Utilize the markdown and editing syntax provided by medium.com
+
+Published at:
+https://medium.com/@davidasteed/babylonjs-tutorial-es6-style-ebdec4d551c9#.6vj5to1pg
 
 
-NOTE:  delete this from the final readme:
-
-Post on medium.com
-
-1.  post a link to my github
-2.  link to my linkedin
-3.  link to Iron Yard?
-
-Critical path:
-
-Phase 1:  do the tutorial as written (typing in each statement not cut/paste)
-1.  create repo and init local repository
-2.  follow tutorial and use CDN for babylonjs?  
-3.  pick one or two spots to step throught the code in the browser inspector...what the "gaming environment in the browser looks like" and include a screenshot with some interesting bits
-(some other stuff to do here?)
-10.  Final step:  commit to github the "es5 tutorial"
-
-
-Phase 2 convert project to es6/The Iron Yard coding standards
-1.  npm install babylonjs? vs. using CDN?
-2.  replace "var" keyword with "let"
-3.  move javascript statements embedded in browser into seperate js file inside IIFE
-4.  validate operation and commit to github
-
-
-Phase 3:  Add a few features/changes to the scene
-Such as:
-1.  change the color of the ball in the scene
-2.  add another ball that circles around the first
-3.  dim out the scene (or whiteout)
